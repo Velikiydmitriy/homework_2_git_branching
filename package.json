@@ -6,18 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Velikiydmitriy/homework_2_git_branching.git"
-  },
-  "author": "",
+  "repository": "git+https://github.com/Velikiydmitriy/homework_2_git_branching.git",
+  "author": "Dmitriy Velikiy <velikiy.dmitriy91@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Velikiydmitriy/homework_2_git_branching/issues"
   },
   "homepage": "https://github.com/Velikiydmitriy/homework_2_git_branching#readme",
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "yarn": "^1.22.10"
   }
 }
